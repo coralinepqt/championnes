@@ -28,6 +28,8 @@ button {
 border: none;
 }
 
+
+
 /***********************    ACCUEIL    ************************************/
 
 .titre {
@@ -1408,6 +1410,12 @@ h4 {
     height: 45px;
 }
 
+
+.extrait{
+    font-size: 16px;
+    text-align: right;
+    margin: 40px 0 0;
+}
 
 /*****************   PARTIE 3 ***********************/
 
